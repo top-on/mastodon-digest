@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<title>Local LLMs — Mastodon daily top</title>
+<link>https://mastodon.social/tags/LocalLLM</link>
+<description>Top Mastodon posts for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI</description>
+<lastBuildDate>Sun, 22 Nov 2026 20:30:00 +0000</lastBuildDate>
+<atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local LLMs — Mastodon daily top — Ollama gets parallel serving; iGPUs and Mac minis prove viable (22 Nov)</title>
+<link>https://mastodon.social/tags/LocalLLM</link>
+<guid isPermaLink="false">digest-local-llm-2026112220</guid>
+<pubDate>Sun, 22 Nov 2026 20:30:00 +0000</pubDate>
+<description>&lt;ul&gt;&lt;li&gt;Ollama 0.14 now handles parallel requests per model by default; one user serves three people from a single RTX 3090 at about 35 tok/s each.&lt;/li&gt;&lt;li&gt;Modest hardware keeps getting more capable: llama.cpp&amp;#x27;s Vulkan backend runs an 8B Qwen model at 18 tok/s on a Radeon 780M iGPU, beating ROCm on the same laptop.&lt;/li&gt;&lt;li&gt;A month-long switch from ChatGPT to a 32 GB Mac mini M4 with Open WebUI covers summarising and proofreading, but not coding.&lt;/li&gt;&lt;li&gt;Privacy warning: several desktop LLM apps send telemetry by default, so &amp;#x27;local&amp;#x27; is not automatically private.&lt;/li&gt;&lt;li&gt;Practical tips and questions: moving Ollama&amp;#x27;s model store to an external SSD, small models for email classification, and whether a Raspberry Pi 5 can run LocalAI.&lt;/li&gt;&lt;/ul&gt;
+&lt;h3&gt;1. &lt;a href="https://example.social/@mira/1001"&gt;Ollama 0.14 enables parallel requests by default&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Mira (@mira@example.social) · 🔁 41 · ⭐ 96 · 💬 18 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Ollama 0.14 finally does parallel requests per model by default. My 3090 now serves three users on a 14B model at ~35 tok/s each. Notes: example.org/ollama-parallel&lt;/p&gt;
+&lt;h3&gt;2. &lt;a href="https://example.social/@sam/1006"&gt;&amp;#x27;Local&amp;#x27; isn&amp;#x27;t automatically private: check app telemetry&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Sam (@sam@example.social) · 🔁 30 · ⭐ 44 · 💬 11&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;CW: AI / privacy&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Reminder that &amp;quot;local&amp;quot; isn&amp;#x27;t automatically private: several popular desktop LLM apps still send telemetry by default. Check settings before pasting work documents.&lt;/p&gt;
+&lt;h3&gt;3. &lt;a href="https://example.social/@camille/1003"&gt;A month of replacing ChatGPT with a Mac mini M4&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Camille (@camille@example.fr) · 🔁 17 · ⭐ 64 · 💬 22&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;I replaced my ChatGPT subscription with a Mac mini M4 with 32 GB and Open WebUI. After a month: for summarising PDFs and correcting my writing, it&amp;#x27;s more than enough. For code, I&amp;#x27;m still keeping a cloud model.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Original (fr)&lt;/summary&gt;&lt;p&gt;J&amp;#x27;ai remplacé mon abonnement ChatGPT par un Mac mini M4 avec 32 Go et Open WebUI. Après un mois : pour résumer des PDF et corriger mes textes, ça suffit largement. Pour le code, je garde encore un modèle cloud.&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://example.social/@jonas/1002"&gt;llama.cpp Vulkan beats ROCm on a Radeon 780M iGPU&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Jonas (@jonas@example.de) · 🔁 22 · ⭐ 51 · 💬 9&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Small benchmark: llama.cpp with the Vulkan backend on a Radeon 780M (iGPU). Qwen 8B Q4_K_M runs at 18 tokens/s, faster than ROCm on the same machine. Genuinely usable for laptops without a dedicated GPU.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Original (de)&lt;/summary&gt;&lt;p&gt;Kleiner Benchmark: llama.cpp mit Vulkan-Backend auf einer Radeon 780M (iGPU). Qwen 8B Q4_K_M läuft mit 18 Token/s – schneller als ROCm auf derselben Maschine. Für Laptops ohne dGPU echt brauchbar.&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;5. &lt;a href="https://example.social/@kenta/1005"&gt;Move Ollama&amp;#x27;s model folder to an external SSD&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Kenta (@kenta@example.jp) · 🔁 9 · ⭐ 20 · 💬 2&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;How to change where Ollama stores models to an external SSD: just set the OLLAMA_MODELS environment variable and restart. Freed up 200 GB on my internal disk.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Original (ja)&lt;/summary&gt;&lt;p&gt;Ollamaのモデル保存先を外付けSSDに変更する方法：環境変数 OLLAMA_MODELS を設定して再起動するだけ。内蔵ディスクが200GB空きました。&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;6. &lt;a href="https://example.social/@lucia/1004"&gt;Which small model for local email classification?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Lucia (@lucia@example.es) · 🔁 3 · ⭐ 12 · 💬 27&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Question: which small model do you use to classify emails locally? I tried Gemma 4B and Phi mini; Gemma is more accurate in Spanish, but slower.&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Original (es)&lt;/summary&gt;&lt;p&gt;Pregunta: ¿qué modelo pequeño usáis para clasificar correos en local? Probé Gemma 4B y Phi mini; Gemma acierta más en español, pero es más lento.&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;7. &lt;a href="https://example.social/@anna/1009"&gt;Is LocalAI on a Raspberry Pi 5 worth it?&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Anna (@anna@example.de) · 🔁 0 · ⭐ 2 · 💬 4&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;Does anyone have experience with LocalAI on a Raspberry Pi 5? Is it even worth it?&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Original (de)&lt;/summary&gt;&lt;p&gt;Hat jemand Erfahrung mit LocalAI auf einem Raspberry Pi 5? Lohnt sich das überhaupt?&lt;/p&gt;&lt;/details&gt;</description>
+</item>
+</channel>
+</rss>
