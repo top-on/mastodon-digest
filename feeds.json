@@ -28,6 +28,18 @@
       "max_items": 60,
       "link": "https://github.com/top-on/mastodon-digest",
       "self_url": "https://raw.githubusercontent.com/top-on/mastodon-digest/main/meshcore.xml"
+    },
+    {
+      "slug": "40c3",
+      "title": "40C3. Mastodon daily top",
+      "hashtags": [
+        "40c3"
+      ],
+      "top_n": 10,
+      "skip_bots": true,
+      "max_items": 60,
+      "link": "https://github.com/top-on/mastodon-digest",
+      "self_url": "https://raw.githubusercontent.com/top-on/mastodon-digest/main/40c3.xml"
     }
   ]
 }
