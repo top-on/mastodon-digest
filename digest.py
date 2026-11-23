@@ -61,45 +61,96 @@ def fetch_tag(instance: str, tag: str, since: dt.datetime, max_pages: int = 30) 
     return posts
 
 
-class _TextExtractor(HTMLParser):
+_BARE_URL = re.compile(r"https?://[^\s<>\"]+[^\s<>\".,;:!?)\]]")
+
+
+def _linkify(escaped: str) -> str:
+    """Wrap bare http(s) URLs in already-escaped text in <a> tags."""
+    return _BARE_URL.sub(lambda m: f'<a href="{m.group(0)}">{m.group(0)}</a>', escaped)
+
+
+class _ContentParser(HTMLParser):
+    """Turns Mastodon status HTML into plain text and into safe HTML that keeps
+    links (URLs, hashtags, mentions) clickable. Everything else is escaped."""
+
     def __init__(self):
-        super().__init__()
-        self.parts: list[str] = []
-        self._skip = 0
+        super().__init__(convert_charrefs=True)
+        self.text: list[str] = []
+        self.html: list[str] = []
+        self._spans: list[str] = []     # class of each open <span>
+        self._in_link = False
+        self._drop = 0                  # inside <script>/<style>
+
+    @property
+    def _hidden(self) -> bool:          # Mastodon hides URL prefixes/suffixes this way
+        return any("invisible" in c for c in self._spans)
 
     def handle_starttag(self, tag, attrs):
-        if "invisible" in (dict(attrs).get("class") or ""):   # hidden URL prefixes
-            self._skip += 1
-        if tag == "br":
-            self.parts.append("\n")
+        a = dict(attrs)
+        if tag in ("script", "style"):
+            self._drop += 1
+        elif tag == "span":
+            self._spans.append(a.get("class") or "")
+        elif tag == "br":
+            self.text.append("\n")
+            self.html.append("<br>")
+        elif tag == "a" and not self._in_link:
+            href = a.get("href") or ""
+            if href.startswith(("http://", "https://")):
+                self.html.append(f'<a href="{html.escape(href)}">')
+                self._in_link = True
 
     def handle_endtag(self, tag):
-        if tag == "span" and self._skip:
-            self._skip -= 1
-        if tag == "p":
-            self.parts.append("\n\n")
+        if tag in ("script", "style") and self._drop:
+            self._drop -= 1
+        elif tag == "span" and self._spans:
+            if "ellipsis" in self._spans.pop():     # shortened URL: show that it continues
+                self.text.append("…")
+                self.html.append("…")
+        elif tag == "p":
+            self.text.append("\n\n")
+            self.html.append("<br><br>")
+        elif tag == "a" and self._in_link:
+            self.html.append("</a>")
+            self._in_link = False
 
     def handle_data(self, data):
-        if not self._skip:
-            self.parts.append(data)
+        if self._hidden or self._drop:
+            return
+        self.text.append(data)
+        esc = html.escape(data)
+        self.html.append(esc if self._in_link else _linkify(esc).replace("\n", "<br>"))
+
+
+def parse_content(content: str) -> tuple[str, str]:
+    """Returns (plain text, safe HTML with clickable links)."""
+    p = _ContentParser()
+    p.feed(content or "")
+    p.close()
+    if p._in_link:
+        p.html.append("</a>")
+    text = re.sub(r"\n{3,}", "\n\n", "".join(p.text)).strip()
+    body = re.sub(r"(<br>\s*){3,}", "<br><br>", "".join(p.html))
+    body = re.sub(r"^(\s|<br>)+|(\s|<br>)+$", "", body)
+    return text, body
 
 
 def html_to_text(content: str) -> str:
-    p = _TextExtractor()
-    p.feed(content or "")
-    return re.sub(r"\n{3,}", "\n\n", "".join(p.parts)).strip()
+    return parse_content(content)[0]
 
 
 def normalize(status: dict) -> dict:
     acct = status["account"]
+    text, body_html = parse_content(status.get("content", ""))
     return {
+        "body_html": body_html,
         "uri": status.get("uri") or status.get("url"),
         "url": status.get("url") or status.get("uri"),
         "created_at": status["created_at"],
         "author": acct.get("display_name") or acct.get("acct"),
         "acct": acct.get("acct"),
         "bot": bool(acct.get("bot")),
-        "text": html_to_text(status.get("content", "")),
+        "text": text,
         "spoiler": status.get("spoiler_text") or "",
         "media": len(status.get("media_attachments") or []),
         "boosts": status.get("reblogs_count", 0),
@@ -151,7 +202,7 @@ def post_html(p: dict, rank: int) -> str:
             f"🔁 {p['boosts']} · ❤️ {p['likes']} · 💬 {p['replies']}"
             + (f" · 🖼 {p['media']}" if p["media"] else ""))
     head = html.escape(first_line(p["text"]) or "(media only)")
-    body = "<br>".join(html.escape(p["text"]).splitlines())
+    body = p["body_html"]
     label = f"CW: {html.escape(p['spoiler'])}" if p["spoiler"] else "Show post"
     return "\n".join([
         f"<h3>{rank}. <a href=\"{html.escape(p['url'])}\">{head}</a></h3>",
