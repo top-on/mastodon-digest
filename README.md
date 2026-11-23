@@ -7,7 +7,7 @@ A daily "top posts" RSS feed for Mastodon hashtags. It's fully algorithmic, with
 - **Sources:** each feed's hashtags on mastodon.social, merged, with duplicates and bots removed.
 - **Eligibility:** a post needs at least 1 boost or 1 comment. If fewer than 10 posts qualify, the day lists fewer.
 - **Ranking:** boosts + likes. At equal totals, boosts win, then comments, then the newer post.
-- **Item:** one per day, titled `<feed title>. <Wkd> YYYY-MM-DD`, linking to the feed's tag page.
+- **Item:** one per day, titled `<feed title>. <Wkd> YYYY-MM-DD`, linking to this repo.
 - **Per post:** a linked first line, the author, `🔁 boosts · ❤️ likes · 💬 comments` (plus `🖼 n` for media), and the post text in a collapsible "Show post" block.
 - Counts are as seen by mastodon.social at fetch time.
 
