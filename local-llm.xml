@@ -4,22 +4,22 @@
 <title>Local LLMs. Mastodon daily top</title>
 <link>https://mastodon.social/tags/LocalLLM</link>
 <description>Top 10 Mastodon posts per day for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI, ranked by boosts + likes</description>
-<lastBuildDate>Mon, 23 Nov 2026 05:00:00 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 19:03:16 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>Local LLMs. Mastodon daily top. Sun 2026-11-22</title>
 <link>https://mastodon.social/tags/LocalLLM</link>
 <guid isPermaLink="false">daily-local-llm-2026-11-22</guid>
-<pubDate>Mon, 23 Nov 2026 05:00:00 +0000</pubDate>
+<pubDate>Mon, 23 Nov 2026 19:03:16 +0000</pubDate>
 <description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@nexthorizonspace/117661892618415974"&gt;🧠 NVIDIA&amp;#x27;s RTX Spark could change what a personal computer does, not just how fast it …&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Next Horizon | Science &amp;amp; Technology (@nexthorizonspace) · 🔁 10 · ❤️ 2 · 💬 0&lt;/small&gt;&lt;/p&gt;
-&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;🧠 NVIDIA&amp;#x27;s RTX Spark could change what a personal computer does, not just how fast it runs.&lt;br&gt;&lt;br&gt;Up to 128GB of unified memory can help fit larger local AI models. But fitting a model isn&amp;#x27;t the same as running it fast—or trusting an agent with your files.&lt;br&gt;&lt;br&gt;Our explainer covers the architecture, benchmarks and trade-offs:&lt;br&gt;nexthorizon.space/2026/10/nvid…&lt;br&gt;&lt;br&gt;#Science #Technology #SciComm #NVIDIA #RTXSpark #UnifiedMemory #LocalAI #AIAgents&lt;/p&gt;&lt;/details&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;🧠 NVIDIA&amp;#x27;s RTX Spark could change what a personal computer does, not just how fast it runs.&lt;br&gt;&lt;br&gt;Up to 128GB of unified memory can help fit larger local AI models. But fitting a model isn&amp;#x27;t the same as running it fast—or trusting an agent with your files.&lt;br&gt;&lt;br&gt;Our explainer covers the architecture, benchmarks and trade-offs:&lt;br&gt;nexthorizon.space/2026/10/nvid&lt;br&gt;&lt;br&gt;#Science #Technology #SciComm #NVIDIA #RTXSpark #UnifiedMemory #LocalAI #AIAgents&lt;/p&gt;&lt;/details&gt;
 &lt;h3&gt;2. &lt;a href="https://mastodon.social/@mfeilner/117659864224128055"&gt;&amp;quot;Dass viele Menschen oder Unternehmen eines Tages kleine, schlanke KI-Modelle auf ihren …&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Markus Feilner (@mfeilner) · 🔁 2 · ❤️ 7 · 💬 1&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;&amp;quot;Dass viele Menschen oder Unternehmen eines Tages kleine, schlanke KI-Modelle auf ihren lokalen Rechnern laufen lassen könnten, ist aus der Perspektive von Dezentralisierung, Datenschutz, Autonomie und individueller Freiheit eine attraktive Idee. Viele wollen ja gar keinen Maschinengott, sondern nur keine E-Mails mehr beantworten müssen. Aus der Perspektive eines Unternehmens, dessen Geschäftsmodell das zerstören würde, sieht das anders aus.&amp;quot;&lt;br&gt;Was wir schon lange sagen: #smallAI #localAI&lt;/p&gt;&lt;/details&gt;
 &lt;h3&gt;3. &lt;a href="https://mastodon.social/@ai0news/117658825657230934"&gt;AI prompts leaking through third-party inference routers as researcher exposes supply …&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;ai0.news (@ai0news) · 🔁 0 · ❤️ 2 · 💬 1&lt;/small&gt;&lt;/p&gt;
-&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;AI prompts leaking through third-party inference routers as researcher exposes supply chain vulnerabilities, OpenRouter drops 3 providers, and Together.ai confirms separate breach via exposed credentials.&lt;br&gt;&lt;br&gt;ai0.news/posts/2026-11-22-dail…&lt;br&gt;&lt;br&gt;#AI #Cybersecurity #OpenSource #LocalLLM&lt;/p&gt;&lt;/details&gt;</description>
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;AI prompts leaking through third-party inference routers as researcher exposes supply chain vulnerabilities, OpenRouter drops 3 providers, and Together.ai confirms separate breach via exposed credentials.&lt;br&gt;&lt;br&gt;ai0.news/posts/2026-11-22-dail&lt;br&gt;&lt;br&gt;#AI #Cybersecurity #OpenSource #LocalLLM&lt;/p&gt;&lt;/details&gt;</description>
 </item>
 </channel>
 </rss>
