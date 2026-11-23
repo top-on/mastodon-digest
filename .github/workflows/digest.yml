@@ -1,0 +1,35 @@
+name: Mastodon daily top
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC daily: report on the previous UTC day
+  workflow_dispatch: {}
+
+permissions:
+  contents: write   # commit the generated feed
+
+concurrency:
+  group: digest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build feeds
+        run: python digest.py
+
+      - name: Commit feeds
+        run: |
+          git config user.name  "digest-bot"
+          git config user.email "digest-bot@users.noreply.github.com"
+          git add local-llm.xml local-llm.items.json
+          git diff --cached --quiet || git commit -m "Update feeds $(date -u +%F)"
+          git push

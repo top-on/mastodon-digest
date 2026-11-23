@@ -1,0 +1,15 @@
+{
+  "instance": "https://mastodon.social",
+  "feeds": [
+    {
+      "slug": "local-llm",
+      "title": "Local LLMs. Mastodon daily top",
+      "hashtags": ["LocalLLM", "LocalLLMs", "Ollama", "llamacpp", "LocalAI"],
+      "top_n": 10,
+      "skip_bots": true,
+      "max_items": 60,
+      "link": "https://mastodon.social/tags/LocalLLM",
+      "self_url": "https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml"
+    }
+  ]
+}
