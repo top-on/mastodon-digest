@@ -2,7 +2,9 @@ name: Mastodon daily top
 
 on:
   schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC daily: report on the previous UTC day
+    # Both runs report on the previous UTC day; the backup just refreshes that day's item.
+    - cron: "23 4 * * *"   # main run, 04:23 UTC
+    - cron: "47 5 * * *"   # backup run, 05:47 UTC
   workflow_dispatch: {}
 
 permissions:
