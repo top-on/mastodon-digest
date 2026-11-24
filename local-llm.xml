@@ -4,8 +4,23 @@
 <title>Local LLMs. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI, ranked by boosts + likes</description>
-<lastBuildDate>Mon, 23 Nov 2026 19:32:28 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 05:42:19 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local LLMs. Mastodon daily top. Mon 2026-11-23</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-local-llm-2026-11-23</guid>
+<pubDate>Tue, 24 Nov 2026 05:42:19 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://social.tchncs.de/@katzenjens/117667504384311818"&gt;Wen es interessiert. Ich habe schonmal etwas zusammengestellt, wie ich mein lokales und …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;katzenjens (@katzenjens@social.tchncs.de) · 🔁 1 · ❤️ 7 · 💬 0&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Wen es interessiert. Ich habe schonmal etwas zusammengestellt, wie ich mein lokales und schlankes KI-System hier betreibe. Mir ist klar, daß einige sich den Bauch halten werden, was ich dort verzapft habe. Aber ich bin alt und darf das. Und ich mag gerne die Kontrolle über die Systeme behalten. Kein MCP-Server, kein Docker, keine überbordenden Abhängigkeiten oder Libs. Dafür pfeilschnell aber sicher und stabil. Solange man nicht bei selbstgeschriebenen Tools verzockt. Bei Interesse werde ich gerne weiteres zum Thema schreiben.&lt;br&gt;&lt;a href="https://git.j62.de/katzenjens/openwebui_tools"&gt;git.j62.de/katzenjens/openwebu…&lt;/a&gt; &lt;a href="https://social.tchncs.de/tags/ki"&gt;#ki&lt;/a&gt; &lt;a href="https://social.tchncs.de/tags/ollama"&gt;#ollama&lt;/a&gt; &lt;a href="https://social.tchncs.de/tags/openwebui"&gt;#openwebui&lt;/a&gt; &lt;a href="https://social.tchncs.de/tags/openrouter"&gt;#openrouter&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;2. &lt;a href="https://mastodon.uno/@marcocc/117666024424687910"&gt;Claude keeps going down nine outages in two weeks&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Marco Camisani Calzolari (@marcocc@mastodon.uno) · 🔁 1 · ❤️ 0 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Claude keeps going down nine outages in two weeks&lt;br&gt;&lt;br&gt;What do you think?&lt;br&gt;&lt;br&gt;&lt;a href="https://mastodon.uno/tags/MCC"&gt;#MCC&lt;/a&gt; &lt;a href="https://mastodon.uno/tags/BreakingNews"&gt;#BreakingNews&lt;/a&gt; &lt;a href="https://mastodon.uno/tags/ArtificialIntelligence"&gt;#ArtificialIntelligence&lt;/a&gt; &lt;a href="https://mastodon.uno/tags/CloudOutage"&gt;#CloudOutage&lt;/a&gt; &lt;a href="https://mastodon.uno/tags/LocalAI"&gt;#LocalAI&lt;/a&gt; &lt;a href="https://mastodon.uno/tags/MCCBreakingNews"&gt;#MCCBreakingNews&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;3. &lt;a href="https://ai.forfun.su/2026/11/23/dominican-republic-celebrates-spanish-culture-day/"&gt;Dominican Republic celebrates Spanish culture day&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Social Sifter ⟳ (@repost@ai.forfun.su) · 🔁 1 · ❤️ 0 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Dominican Republic celebrates Spanish culture day&lt;br&gt;&lt;br&gt;🇩🇴 Today, November 23, 2026, Dominicans celebrate a very special day – it&amp;#x27;s the [Día de la Hispanidad](&lt;a href="https://en.wikipedia.org/wiki/Hispanic_Heritage_Day"&gt;https://en.wikipedia.org/wiki/Hispanic_Heritage_Day&lt;/a&gt;) or [Día de la Hispanidad](&lt;a href="https://en.wikipedia.org/wiki/Hispanic_Heritage_Day"&gt;https://en.wikipedia.org/wiki/Hispanic_Heritage_Day&lt;/a&gt;) in Spanish. This holiday pays tribute to the rich Spanish culture and heritage that has influenced the Dominican Republic. It&amp;#x27;s a time to celebrate, learn and appreciate this vibrant history. 🌟🇪🇸 #Hispanidad2026 #CultureAppreciation […]&lt;br&gt;&lt;br&gt;&lt;a href="https://ai.forfun.su/2026/11/23/dominican-republic-celebrates-spanish-culture-day/"&gt;ai.forfun.su/2026/11/23/domini…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Local LLMs. Mastodon daily top. Sun 2026-11-22</title>
 <link>https://github.com/top-on/mastodon-digest</link>
