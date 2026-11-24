@@ -139,13 +139,23 @@ def html_to_text(content: str) -> str:
     return parse_content(content)[0]
 
 
-def normalize(status: dict) -> dict:
+def local_url(status: dict, instance: str | None) -> str:
+    """Link to the post's copy on the instance we fetched it from (e.g.
+    https://mastodon.social/@user@other.server/<id>), so a Mastodon app that
+    opens links for that instance can open every post, whatever its home server."""
+    acct, sid = status.get("account", {}).get("acct"), status.get("id")
+    if instance and acct and sid:
+        return f"{instance.rstrip('/')}/@{acct}/{sid}"
+    return status.get("url") or status.get("uri")
+
+
+def normalize(status: dict, instance: str | None = None) -> dict:
     acct = status["account"]
     text, body_html = parse_content(status.get("content", ""))
     return {
         "body_html": body_html,
         "uri": status.get("uri") or status.get("url"),
-        "url": status.get("url") or status.get("uri"),
+        "url": local_url(status, instance),
         "created_at": status["created_at"],
         "author": acct.get("display_name") or acct.get("acct"),
         "acct": acct.get("acct"),
@@ -171,12 +181,12 @@ def previous_day(now: dt.datetime) -> tuple[dt.datetime, dt.datetime]:
 
 
 def select_posts(raw: list[dict], since: dt.datetime, until: dt.datetime,
-                 top_n: int, skip_bots: bool) -> list[dict]:
+                 top_n: int, skip_bots: bool, instance: str | None = None) -> list[dict]:
     seen, out = set(), []
     for s in raw:
         if s.get("reblog"):
             continue
-        p = normalize(s)
+        p = normalize(s, instance)
         if p["uri"] in seen or not (since <= parse_ts(p["created_at"]) < until):
             continue
         if (skip_bots and p["bot"]) or (not p["text"] and not p["media"]):
@@ -288,7 +298,8 @@ def main() -> int:
                 failed += 1
                 print(f"[{feed['slug']}] #{tag}: fetch failed: {e}", file=sys.stderr)
 
-        posts = select_posts(raw, since, until, feed.get("top_n", 10), feed.get("skip_bots", True))
+        posts = select_posts(raw, since, until, feed.get("top_n", 10), feed.get("skip_bots", True),
+                             instance)
         n = write_rss(out_dir / f"{feed['slug']}.xml", feed, [build_item(feed, posts, since, now)],
                       feed.get("max_items", 60), now)
         print(f"[{feed['slug']}] {len(posts)} posts, feed has {n} items", file=sys.stderr)
