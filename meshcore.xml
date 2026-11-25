@@ -4,8 +4,35 @@
 <title>Meshcore. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #meshcore, ranked by boosts + likes</description>
-<lastBuildDate>Tue, 24 Nov 2026 07:34:10 +0000</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 05:39:37 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/meshcore.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meshcore. Mastodon daily top. Tue 2026-11-24</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-meshcore-2026-11-24</guid>
+<pubDate>Wed, 25 Nov 2026 05:39:37 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@MathGon@mastodon.xyz/117672931706458447"&gt;#meshcore dans #homeassistant Quasi prêt à monitorer la maison quand ce sera la fin …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;MathGon (@MathGon@mastodon.xyz) · 🔁 1 · ❤️ 4 · 💬 1 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;&lt;a href="https://mastodon.xyz/tags/meshcore"&gt;#meshcore&lt;/a&gt; dans &lt;a href="https://mastodon.xyz/tags/homeassistant"&gt;#homeassistant&lt;/a&gt; Quasi prêt à monitorer la maison quand ce sera la fin d&amp;#x27;internet&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;2. &lt;a href="https://mastodon.social/@sebastian@social.itu.dk/117670161833533351"&gt;@wolfinpdx&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Sebastian Büttrich @ ITU (@sebastian@social.itu.dk) · 🔁 1 · ❤️ 3 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;&lt;a href="https://pdx.social/@wolfinpdx"&gt;@wolfinpdx&lt;/a&gt; &lt;br&gt;&lt;br&gt;comparing &lt;a href="https://social.itu.dk/tags/meshcore"&gt;#meshcore&lt;/a&gt; and &lt;a href="https://social.itu.dk/tags/meshtastic"&gt;#meshtastic&lt;/a&gt; popularity in &lt;a href="https://social.itu.dk/tags/oregon"&gt;#oregon&lt;/a&gt; &lt;br&gt;&lt;br&gt;&lt;a href="https://nodakmesh.org/meshcore/map"&gt;nodakmesh.org/meshcore/map&lt;/a&gt;&lt;br&gt;&lt;br&gt;vs&lt;br&gt;&lt;br&gt;&lt;a href="https://nodakmesh.org/meshtastic/map"&gt;nodakmesh.org/meshtastic/map&lt;/a&gt;&lt;br&gt;&lt;br&gt;[edit: it has been remarked by &lt;a href="https://norden.social/@meshcore_kiel"&gt;@meshcore_kiel&lt;/a&gt; and &lt;a href="https://pnw.zone/@meshoregon"&gt;@meshoregon&lt;/a&gt;   that both those maps are outdated/old/incomplete, not based on realtime observations ... bad choice of maps on my side]&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;3. &lt;a href="https://mastodon.social/@unixtippse@mastodon.online/117670452032431425"&gt;Verstehen Sie mich nicht falsch, ich liebe meinen selbstkonstruierten display- und …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Martin Schmitt (@unixtippse@mastodon.online) · 🔁 0 · ❤️ 4 · 💬 3 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;CW: CW Stationstagebuch Meshcore&lt;/summary&gt;&lt;p&gt;Verstehen Sie mich nicht falsch, ich liebe meinen selbstkonstruierten display- und featurelosen DIY-Companion sehr, aber er ist gegenüber Außenstehenden einfach viel erklärbedürftiger als nötig. Wieder mit dem o.G. &lt;a href="https://mastodon.online/tags/Thinknode"&gt;#Thinknode&lt;/a&gt; M1 als EDC unterwegs. Es hat damals (also vor 2 Monaten) Tage gedauert, bis ich hier zum ersten mal ein Repeater-Advert gesehen habe. Heute scrollen die nur so durch. 🙂 &lt;a href="https://mastodon.online/tags/Meshcore"&gt;#Meshcore&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://mastodon.social/@kernel-error.de@www.kernel-error.de/117670837474719541"&gt;MeshCore auf SF7 umstellen? Was die Daten aus dem Rheinland sagen&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;-=Kernel-Error=- (@kernel-error.de@www.kernel-error.de) · 🔁 2 · ❤️ 1 · 💬 0 · 🖼 4&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;MeshCore auf SF7 umstellen? Was die Daten aus dem Rheinland sagen&lt;br&gt;&lt;br&gt;Hamburg und die Niederlande sind auf SF7 umgestiegen, im Rheinland wird diskutiert. Ich habe 18 Tage CoreScope-Daten ausgewertet: was SF7 an Sendezeit spart, was es an Reserve kostet, welche Aussagen stimmen und was vor einer Umstellung passieren müsste.&lt;br&gt;&lt;br&gt;&lt;a href="https://www.kernel-error.de/2026/11/24/meshcore-sf7-oder-sf8-daten-rheinland/"&gt;kernel-error.de/2026/11/24/mes…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;5. &lt;a href="https://mastodon.social/@sebastian@social.itu.dk/117670144920185633"&gt;@wolfinpdx&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Sebastian Büttrich @ ITU (@sebastian@social.itu.dk) · 🔁 0 · ❤️ 1 · 💬 2&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;&lt;a href="https://pdx.social/@wolfinpdx"&gt;@wolfinpdx&lt;/a&gt; &lt;br&gt;&lt;br&gt;There s many suggestions on&lt;br&gt;&lt;br&gt;&lt;a href="https://meshtastic.org/docs/hardware/devices/"&gt;meshtastic.org/docs/hardware/d…&lt;/a&gt;&lt;br&gt;&lt;br&gt;The cheapest entry is probably Heltec or Lilygo.&lt;br&gt;&lt;br&gt;You should think about whether&lt;br&gt;&lt;br&gt;- you would like a mobile/personal device or a stable router/repeater (on the roof or so)&lt;br&gt;- you like finished product or are happy to DIY&lt;br&gt;- &lt;a href="https://social.itu.dk/tags/meshtastic"&gt;#meshtastic&lt;/a&gt;  or &lt;a href="https://social.itu.dk/tags/meshcore"&gt;#meshcore&lt;/a&gt;?&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;6. &lt;a href="https://mastodon.social/@pcora/117672217955053089"&gt;🤓 with #meshcore&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Pedro Cora (@pcora) · 🔁 0 · ❤️ 1 · 💬 1 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;🤓 with &lt;a href="https://mastodon.social/tags/meshcore"&gt;#meshcore&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;7. &lt;a href="https://mastodon.social/@tawalker/117673725480757818"&gt;So, my first #MeshCore-compatible device arrived today (an Elecrow ThinkNode M5, if …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;T.A. Walker (@tawalker) · 🔁 0 · ❤️ 0 · 💬 2&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;So, my first &lt;a href="https://mastodon.social/tags/MeshCore"&gt;#MeshCore&lt;/a&gt;-compatible device arrived today (an Elecrow ThinkNode M5, if anyone wondered). Kudos to the MC developers, who have made it a piece of cake to flash the firmware to your device via a Chromium-based browser and a USB cable. I even did mine on a Chromebook.&lt;br&gt;&lt;br&gt;I set up the M5, paired it with various computers, turned it on, and... crickets. No users appeared. I knew I was likely my town&amp;#x27;s first MeshCore user, but I really hope the M5 isn&amp;#x27;t at fault here... 🧵 1/&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Meshcore. Mastodon daily top. Mon 2026-11-23</title>
 <link>https://github.com/top-on/mastodon-digest</link>
