@@ -4,8 +4,29 @@
 <title>Meshcore. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #meshcore, ranked by boosts + likes</description>
-<lastBuildDate>Wed, 25 Nov 2026 05:39:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:49:22 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/meshcore.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Meshcore. Mastodon daily top. Wed 2026-11-25</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-meshcore-2026-11-25</guid>
+<pubDate>Thu, 26 Nov 2026 05:49:22 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@pcora/117678197740000912"&gt;📷 Made a nice case for my #meshcore chip and antenna&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Pedro Cora (@pcora) · 🔁 0 · ❤️ 5 · 💬 1 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;📷 Made a nice case for my &lt;a href="https://mastodon.social/tags/meshcore"&gt;#meshcore&lt;/a&gt; chip and antenna &lt;br&gt;&lt;br&gt;&lt;a href="https://blog.pcora.eu/posts/november-25"&gt;blog.pcora.eu/posts/november-25&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://mastodon.social/tags/dailyphoto"&gt;#dailyphoto&lt;/a&gt; &lt;a href="https://mastodon.social/tags/photography"&gt;#photography&lt;/a&gt; &lt;a href="https://mastodon.social/tags/shotoniphone"&gt;#shotoniphone&lt;/a&gt; &lt;a href="https://mastodon.social/tags/halide"&gt;#halide&lt;/a&gt; &lt;a href="https://mastodon.social/tags/fotografie"&gt;#fotografie&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;2. &lt;a href="https://mastodon.social/@cdp1337@social.bitsnbytes.dev/117678891532047048"&gt;My MeshCore / Meshtastic weather script is working pretty well, going to add a few more …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Charlie 🐧💻🛠️ (@cdp1337@social.bitsnbytes.dev) · 🔁 2 · ❤️ 2 · 💬 0&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;My MeshCore / Meshtastic weather script is working pretty well, going to add a few more features like enabling/disabling various automation features like weather alerts, current conditions, and alerts, (currently they are all just enabled).&lt;br&gt;&lt;br&gt;It can also do NL-based direct message support for queries like &amp;quot;how hot is it&amp;quot; which maps to the &amp;quot;temperature&amp;quot; command, MQTT uploads for acting as an observer, onboard sensors with fallback to openweathermap, and wifi upload of sensor data to HomeAssistant.&lt;br&gt;&lt;br&gt;Any weather or mesh folks have ideas for other features to add?&lt;br&gt;&lt;br&gt;OH, and unlike OpenHop, it&amp;#x27;s actually configured to run on an SD card without burning through write cycles and can connect to radios configured for standard companion mode.&lt;br&gt;&lt;br&gt;&lt;a href="https://github.com/BitsNBytes25/Raspberry-Pi-Mesh-Weather"&gt;github.com/BitsNBytes25/Raspbe…&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://social.bitsnbytes.dev/tags/MeshCore"&gt;#MeshCore&lt;/a&gt; &lt;a href="https://social.bitsnbytes.dev/tags/Meshtastic"&gt;#Meshtastic&lt;/a&gt; &lt;a href="https://social.bitsnbytes.dev/tags/Weather"&gt;#Weather&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;3. &lt;a href="https://mastodon.social/@HopelessDemigod@mstdn.social/117679205447557988"&gt;It seems I’m the only one person within 20 miles using MeshCore and I’m ok with that.&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;🎃Imogen🎃 (@HopelessDemigod@mstdn.social) · 🔁 0 · ❤️ 3 · 💬 2&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;It seems I’m the only one person within 20 miles using MeshCore and I’m ok with that.&lt;br&gt;&lt;br&gt;1 Repeater&lt;br&gt;1 Client &lt;br&gt;&lt;br&gt;&lt;a href="https://mstdn.social/tags/Meshcore"&gt;#Meshcore&lt;/a&gt; &lt;a href="https://mstdn.social/tags/MeshcoreMN"&gt;#MeshcoreMN&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://mastodon.social/@Dam_ned@mamot.fr/117676254914647268"&gt;Pour la team #lora #meshcore et #meshstatic 😅 techno-science.net/fr/actualit…&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Dam H. (@Dam_ned@mamot.fr) · 🔁 1 · ❤️ 1 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Pour la team &lt;a href="https://mamot.fr/tags/lora"&gt;#lora&lt;/a&gt; &lt;a href="https://mamot.fr/tags/meshcore"&gt;#meshcore&lt;/a&gt; et &lt;a href="https://mamot.fr/tags/meshstatic"&gt;#meshstatic&lt;/a&gt; 😅 &lt;a href="https://www.techno-science.net/fr/actualites/cactus-produisent-electricite-figuier-barbarie-29813"&gt;techno-science.net/fr/actualit…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;5. &lt;a href="https://mastodon.social/@tbhdk@social.data.coop/117679605141131791"&gt;For interesserede i #meshcore 📻 🕸️ 👇&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Thomas Hansen 📝 🇩🇰 (@tbhdk@social.data.coop) · 🔁 1 · ❤️ 0 · 💬 0&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;For interesserede i &lt;a href="https://social.data.coop/tags/meshcore"&gt;#meshcore&lt;/a&gt; 📻 🕸️ 👇 &lt;br&gt;&lt;br&gt;&amp;quot;Mesh: Noter om Meshcore&amp;quot; 📰 &lt;a href="https://opsec45.dk/2026/10/30/mesh-noter-om-meshcore/"&gt;opsec45.dk/2026/10/30/mesh-not…&lt;/a&gt;&lt;br&gt;&lt;br&gt;&amp;quot;Meshcore: En stabil løsning&amp;quot; 📰 &lt;a href="https://opsec45.dk/2026/11/16/meshcore-en-stabil-loesning/#more-3937"&gt;opsec45.dk/2026/11/16/meshcore…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Meshcore. Mastodon daily top. Tue 2026-11-24</title>
 <link>https://github.com/top-on/mastodon-digest</link>

@@ -4,8 +4,17 @@
 <title>Local LLMs. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI, ranked by boosts + likes</description>
-<lastBuildDate>Wed, 25 Nov 2026 05:39:37 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 05:49:22 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local LLMs. Mastodon daily top. Wed 2026-11-25</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-local-llm-2026-11-25</guid>
+<pubDate>Thu, 26 Nov 2026 05:49:22 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@vibeops@techhub.social/117675987149480385"&gt;coding: okay - damit die gui einer webapp redisgnt...&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;VibeOps (@vibeops@techhub.social) · 🔁 0 · ❤️ 0 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;coding: okay - damit die gui einer webapp redisgnt...&lt;br&gt;&lt;br&gt;wieder mehr session management machen - nicht wie bei qwen3.8 einfach machen lassen über stunden (aber auch viel schneller - verzerrt mein eindruck)&lt;br&gt;&lt;br&gt;&lt;a href="https://techhub.social/tags/inkling2mini"&gt;#inkling2mini&lt;/a&gt; ist ein echter gamechanger für &lt;a href="https://techhub.social/tags/localai"&gt;#localai&lt;/a&gt; und die demokratisierung der ki - wir brauchen einen zweiten player neben &lt;a href="https://techhub.social/tags/qwen"&gt;#qwen&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Local LLMs. Mastodon daily top. Tue 2026-11-24</title>
 <link>https://github.com/top-on/mastodon-digest</link>
