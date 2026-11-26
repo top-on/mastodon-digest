@@ -6,7 +6,7 @@ A daily "top posts" RSS feed for Mastodon hashtags. It's fully algorithmic, with
 
 | Feed | Hashtags | RSS URL |
 |---|---|---|
-| **Local LLMs** | #LocalLLM #LocalLLMs #Ollama #llamacpp #LocalAI | `https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml` |
+| **Local LLMs** | #LocalLLM #LocalLLMs #Ollama #llamacpp #LocalAI #inkling2mini #qwen | `https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml` |
 | **Meshcore** | #meshcore | `https://raw.githubusercontent.com/top-on/mastodon-digest/main/meshcore.xml` |
 | **40C3** | #40c3 | `https://raw.githubusercontent.com/top-on/mastodon-digest/main/40c3.xml` |
 
