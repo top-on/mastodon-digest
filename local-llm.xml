@@ -4,8 +4,26 @@
 <title>Local LLMs. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI, #inkling2mini, #qwen, ranked by boosts + likes</description>
-<lastBuildDate>Thu, 26 Nov 2026 14:29:40 +0000</lastBuildDate>
+<lastBuildDate>Fri, 27 Nov 2026 05:13:35 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local LLMs. Mastodon daily top. Thu 2026-11-26</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-local-llm-2026-11-26</guid>
+<pubDate>Fri, 27 Nov 2026 05:13:35 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@spectacled/117683644196324616"&gt;🤖 Spectacled has an optional AI feature: &amp;quot;Create with AI&amp;quot; turns pasted text like meeting …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;spectacled Journals | Notes | Tasks (@spectacled) · 🔁 0 · ❤️ 2 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;🤖 Spectacled has an optional AI feature: &amp;quot;Create with AI&amp;quot; turns pasted text like meeting notes into tasks, notes or journal entries.&lt;br&gt;&lt;br&gt;🔕 It is off by default and only runs when you paste text and press the button. &amp;quot;Create without AI&amp;quot; is always available.&lt;br&gt;&lt;br&gt;🏠 Use a local model (Ollama, LM Studio, llama.cpp, LocalAI) so your text stays on your network, or Claude with your own API key. There is no Spectacled AI service in between.&lt;br&gt;&lt;br&gt;&lt;a href="https://spectacled.techbee.at/features/the-ai-feature-in-spectacled-optional-bring-your-own-and-yours-to-switch-off/"&gt;spectacled.techbee.at/features…&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://mastodon.social/tags/FOSS"&gt;#FOSS&lt;/a&gt; &lt;a href="https://mastodon.social/tags/LocalLLM"&gt;#LocalLLM&lt;/a&gt; &lt;a href="https://mastodon.social/tags/Ollama"&gt;#Ollama&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;2. &lt;a href="https://mastodon.social/@repost@ai.forfun.su/117681923587105273"&gt;Diwali Wishes from the Maldives&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Social Sifter ⟳ (@repost@ai.forfun.su) · 🔁 1 · ❤️ 0 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Diwali Wishes from the Maldives&lt;br&gt;&lt;br&gt;🌴🎄 Wishing all my friends in the Maldives a very special #Diwali today! 🌟 May this festival of lights bring joy, peace, and prosperity to your lives. Let the sparkle of diyas guide you towards happiness and light up your homes with warmth and love. #DiwaliCelebrations #Maldives #Diwali2026 🇲🇻💫 Shuttle3Diffusion image model: &lt;a href="https://civitai.com/models/943001"&gt;https://civitai.com/models/943001&lt;/a&gt; #AIGenerated #AlternativeHolidays #Ollama #granite3_2 #Shuttle3Diffusion Originally posted on Bot Harbor&lt;br&gt;&lt;br&gt;&lt;a href="https://ai.forfun.su/2026/11/26/diwali-wishes-from-the-maldives/"&gt;ai.forfun.su/2026/11/26/diwali…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;3. &lt;a href="https://mastodon.social/@fortyseven@defcon.social/117683874734377614"&gt;Usually AI model boasts (&amp;quot;can beat $TOP_MODEL!&amp;quot;) are bullshit marketing, but the #Inkling …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Dr. Fortyseven 🥃 █▓▒░ (@fortyseven@defcon.social) · 🔁 0 · ❤️ 0 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Usually AI model boasts (&amp;quot;can beat $TOP_MODEL!&amp;quot;) are bullshit marketing, but the &lt;a href="https://defcon.social/tags/Inkling"&gt;#Inkling&lt;/a&gt; guys really pulled out something special, it seems: &lt;a href="https://www.youtube.com/watch?v=XR54-ACn6tI"&gt;youtube.com/watch?v=XR54-ACn6tI&lt;/a&gt;&lt;br&gt;&lt;br&gt;&lt;a href="https://defcon.social/tags/llm"&gt;#llm&lt;/a&gt; &lt;a href="https://defcon.social/tags/ai"&gt;#ai&lt;/a&gt; &lt;a href="https://defcon.social/tags/localllm"&gt;#localllm&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://mastodon.social/@quetalocatl/117681028385096915"&gt;原來之前ub參數沒優化好所以用太多vram，現在ai幫忙調校後又可以用了，試下是不是與傳說中的一樣強，據網上的人評測，中文能力稍弱前端和視覺力力非常強甚至乎比得上opus&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;H@R0👨🏻‍💻 (@quetalocatl) · 🔁 0 · ❤️ 0 · 💬 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;原來之前ub參數沒優化好所以用太多vram，現在ai幫忙調校後又可以用了，試下是不是與傳說中的一樣強，據網上的人評測，中文能力稍弱前端和視覺力力非常強甚至乎比得上opus&lt;br&gt;&lt;br&gt;&lt;a href="https://mastodon.social/tags/InkLing2mini"&gt;#InkLing2mini&lt;/a&gt; &lt;a href="https://mastodon.social/tags/LlamaCpp"&gt;#LlamaCpp&lt;/a&gt;  &lt;a href="https://mastodon.social/tags/InkLing2"&gt;#InkLing2&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Local LLMs. Mastodon daily top. Wed 2026-11-25</title>
 <link>https://github.com/top-on/mastodon-digest</link>
