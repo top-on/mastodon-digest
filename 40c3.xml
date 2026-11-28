@@ -4,27 +4,27 @@
 <title>40C3. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #40c3, ranked by boosts + likes</description>
-<lastBuildDate>Sat, 28 Nov 2026 05:12:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 12:00:18 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/40c3.xml" rel="self" type="application/rss+xml"/>
 <item>
 <title>40C3. Mastodon daily top. Fri 2026-11-27</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <guid isPermaLink="false">daily-40c3-2026-11-27</guid>
-<pubDate>Sat, 28 Nov 2026 05:12:47 +0000</pubDate>
+<pubDate>Sat, 28 Nov 2026 12:00:18 +0000</pubDate>
 <description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@c3loc@chaos.social/117688393149141421"&gt;And so it begins... #40c3&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;small&gt;CCC Logistics (@c3loc@chaos.social) · 🔁 37 · ❤️ 117 · 💬 5 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;CCC Logistics (@c3loc@chaos.social) · 🔁 38 · ❤️ 117 · 💬 5 · 🖼 1&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;And so it begins... &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
 &lt;h3&gt;2. &lt;a href="https://mastodon.social/@c3sock@chaos.social/117687293135266118"&gt;Something new for #40c3: c3 Sensor Operations Center, or air quality monitoring.&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;c3sock (@c3sock@chaos.social) · 🔁 43 · ❤️ 68 · 💬 3&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Something new for &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt;: c3 Sensor Operations Center, or air quality monitoring.&lt;br&gt;&lt;br&gt;c3soc was taken, and the jokes write themselves for c3sock and air quality.&lt;br&gt;&lt;br&gt;&lt;a href="https://chaos.social/tags/FOSDEM"&gt;#FOSDEM&lt;/a&gt; and &lt;a href="https://chaos.social/tags/eventinfra"&gt;#eventinfra&lt;/a&gt; bought 50 &lt;a href="https://chaos.social/tags/airgradient"&gt;#airgradient&lt;/a&gt; &lt;a href="https://chaos.social/tags/co2"&gt;#co2&lt;/a&gt; sensors. They will be deployed as part of &lt;a href="https://chaos.social/@c3noc"&gt;@c3noc&lt;/a&gt; build up at &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt;. We will link the dashboard once it&amp;#x27;s ready.&lt;br&gt;&lt;br&gt;FOSDEM will also deploy the units, and eventinfra will loan them out as part of their normal hardware loan pool going forward.&lt;br&gt;&lt;br&gt;Questions? Ask &lt;a href="https://hsnl.social/@ak"&gt;@ak&lt;/a&gt; or &lt;a href="https://chaos.social/@RichiH"&gt;@RichiH&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
-&lt;h3&gt;3. &lt;a href="https://mastodon.social/@RichiH@chaos.social/117687310357405310"&gt;RE: chaos.social/@c3sock/117687293…&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;3. &lt;a href="https://mastodon.social/@th@v.st/117689923133913358"&gt;I&amp;#x27;m tempted to deliver my #40c3 celestial navigation talk in this style, although it is …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Trammell Hudson (@th@v.st) · 🔁 4 · ❤️ 29 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;I&amp;#x27;m tempted to deliver my &lt;a href="https://social.v.st/tags/40c3"&gt;#40c3&lt;/a&gt; celestial navigation talk in this style, although it is so loquacious that it might take longer than the allotted forty minutes.&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://mastodon.social/@RichiH@chaos.social/117687310357405310"&gt;RE: chaos.social/@c3sock/117687293…&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Richard &amp;quot;RichiH&amp;quot; Hartmann (@RichiH@chaos.social) · 🔁 16 · ❤️ 12 · 💬 3&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;RE: &lt;a href="https://chaos.social/@c3sock/117687293120140237"&gt;chaos.social/@c3sock/117687293…&lt;/a&gt;&lt;br&gt;&lt;br&gt;This was a long time in the making...&lt;br&gt;&lt;br&gt;Finally, we should be able to offer reliable &lt;a href="https://chaos.social/tags/CO2"&gt;#CO2&lt;/a&gt; monitoring at all European conferences, at the scale which e.g. &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt; and &lt;a href="https://chaos.social/tags/FOSDEM"&gt;#FOSDEM&lt;/a&gt; need&lt;/p&gt;&lt;/details&gt;
-&lt;h3&gt;4. &lt;a href="https://mastodon.social/@th@v.st/117689923133913358"&gt;I&amp;#x27;m tempted to deliver my #40c3 celestial navigation talk in this style, although it is …&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;small&gt;Trammell Hudson (@th@v.st) · 🔁 4 · ❤️ 23 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
-&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;I&amp;#x27;m tempted to deliver my &lt;a href="https://social.v.st/tags/40c3"&gt;#40c3&lt;/a&gt; celestial navigation talk in this style, although it is so loquacious that it might take longer than the allotted forty minutes.&lt;/p&gt;&lt;/details&gt;
 &lt;h3&gt;5. &lt;a href="https://mastodon.social/@erd@gei.st/117689492948775108"&gt;Es sind wieder Socken da!&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;small&gt;erdgeist (@erd@gei.st) · 🔁 22 · ❤️ 4 · 💬 4 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;p&gt;&lt;small&gt;erdgeist (@erd@gei.st) · 🔁 23 · ❤️ 4 · 💬 4 · 🖼 1&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Es sind wieder Socken da!&lt;br&gt;&lt;br&gt;Ein Vögelchen hat mir gezwitschert, dass wir die ausverkauften Socken für den &lt;a href="https://gei.st/tag/40c3"&gt;#40C3&lt;/a&gt; beim Sockenstricker noch kurzfristig verdoppeln konnten. Also klickt, solange der Vorrat reicht!&lt;br&gt;&lt;br&gt;&lt;a href="https://tickets.events.ccc.de/40c3-merch/"&gt;https://tickets.events.ccc.de/40c3-merch/&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
 &lt;h3&gt;6. &lt;a href="https://mastodon.social/@problematic@chaos.social/117687615686971793"&gt;+++ Eil +++ Schiedsstelle entscheidet: Tätern darf auf dem #40c3 der Schwanz dezent …&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Dr. Bernd Schröder🔜40c3 (@problematic@chaos.social) · 🔁 4 · ❤️ 17 · 💬 2&lt;/small&gt;&lt;/p&gt;
@@ -35,12 +35,12 @@
 &lt;h3&gt;8. &lt;a href="https://mastodon.social/@Katti@chaos.social/117689540470426915"&gt;Luxusproblem: der Merch verkauft sich zu gut. #40C3&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Spießermuddi (@Katti@chaos.social) · 🔁 1 · ❤️ 18 · 💬 2&lt;/small&gt;&lt;/p&gt;
 &lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Luxusproblem: der Merch verkauft sich zu gut. &lt;a href="https://chaos.social/tags/40C3"&gt;#40C3&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
-&lt;h3&gt;9. &lt;a href="https://mastodon.social/@qwertziop@chaos.social/117687508958617438"&gt;will there be a knitting operations center at #40c3?&lt;/a&gt;&lt;/h3&gt;
+&lt;h3&gt;9. &lt;a href="https://mastodon.social/@mullana@chaos.social/117689875564335154"&gt;[EN] I ordered € 300 worth of stickers for #40C3 yesterday at the hackspace. And I&amp;#x27;d like …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Mullana (@mullana@chaos.social) · 🔁 1 · ❤️ 14 · 💬 2&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;[EN] I ordered € 300 worth of stickers for &lt;a href="https://chaos.social/tags/40C3"&gt;#40C3&lt;/a&gt; yesterday at the hackspace. And I&amp;#x27;d like to order more. Maybe some new Net Neutrality stickers? Or do you all already have at least three different ones at home?&lt;br&gt;My sticker fund is already hard in the reds now, but I think it was worth it.&lt;br&gt;&lt;br&gt;[DE] Ich hab gestern für 300€ Sticker bestellt. 🫣 Die Sticker-Kasse ist hart im Minus, aber ich würde gerne noch mehr bestellen. Vielleicht nochmal Netzneutralität? Oder habt ihr die alle schon dreimal zuhause?&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;10. &lt;a href="https://mastodon.social/@qwertziop@chaos.social/117687508958617438"&gt;will there be a knitting operations center at #40c3?&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;&lt;small&gt;Aki Ziegimäki, M.Ra. (@qwertziop@chaos.social) · 🔁 2 · ❤️ 9 · 💬 3&lt;/small&gt;&lt;/p&gt;
-&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;will there be a knitting operations center at &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt;?&lt;/p&gt;&lt;/details&gt;
-&lt;h3&gt;10. &lt;a href="https://mastodon.social/@mullana@chaos.social/117689875564335154"&gt;[EN] I ordered € 300 worth of stickers for #40C3 yesterday at the hackspace. And I&amp;#x27;d like …&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;small&gt;Mullana (@mullana@chaos.social) · 🔁 1 · ❤️ 10 · 💬 2&lt;/small&gt;&lt;/p&gt;
-&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;[EN] I ordered € 300 worth of stickers for &lt;a href="https://chaos.social/tags/40C3"&gt;#40C3&lt;/a&gt; yesterday at the hackspace. And I&amp;#x27;d like to order more. Maybe some new Net Neutrality stickers? Or do you all already have at least three different ones at home?&lt;br&gt;My sticker fund is already hard in the reds now, but I think it was worth it.&lt;br&gt;&lt;br&gt;[DE] Ich hab gestern für 300€ Sticker bestellt. 🫣 Die Sticker-Kasse ist hart im Minus, aber ich würde gerne noch mehr bestellen. Vielleicht nochmal Netzneutralität? Oder habt ihr die alle schon dreimal zuhause?&lt;/p&gt;&lt;/details&gt;</description>
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;will there be a knitting operations center at &lt;a href="https://chaos.social/tags/40c3"&gt;#40c3&lt;/a&gt;?&lt;/p&gt;&lt;/details&gt;</description>
 </item>
 <item>
 <title>40C3. Mastodon daily top. Thu 2026-11-26</title>
