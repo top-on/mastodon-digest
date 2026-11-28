@@ -4,8 +4,26 @@
 <title>Local LLMs. Mastodon daily top</title>
 <link>https://github.com/top-on/mastodon-digest</link>
 <description>Top 10 Mastodon posts per day for #LocalLLM, #LocalLLMs, #Ollama, #llamacpp, #LocalAI, #inkling2mini, #qwen, ranked by boosts + likes</description>
-<lastBuildDate>Fri, 27 Nov 2026 14:23:50 +0000</lastBuildDate>
+<lastBuildDate>Sat, 28 Nov 2026 05:12:47 +0000</lastBuildDate>
 <atom:link href="https://raw.githubusercontent.com/top-on/mastodon-digest/main/local-llm.xml" rel="self" type="application/rss+xml"/>
+<item>
+<title>Local LLMs. Mastodon daily top. Fri 2026-11-27</title>
+<link>https://github.com/top-on/mastodon-digest</link>
+<guid isPermaLink="false">daily-local-llm-2026-11-27</guid>
+<pubDate>Sat, 28 Nov 2026 05:12:47 +0000</pubDate>
+<description>&lt;h3&gt;1. &lt;a href="https://mastodon.social/@onainigo@tardigram.com/117687885619707644"&gt;llama.cpp en AMD: parches que doblan el prefill, en una sola prueba&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;onainigo (@onainigo@tardigram.com) · 🔁 3 · ❤️ 1 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;llama.cpp en AMD: parches que doblan el prefill, en una sola prueba&lt;br&gt;&lt;br&gt;llama.cpp en AMD: parches que doblan el prefill, en una sola... #tardigram #parche #llama.cpp # #amd #parches #Tecnologia&lt;br&gt;&lt;br&gt;&lt;a href="https://tardigram.com/m/Tecnologia/t/133885"&gt;tardigram.com/m/Tecnologia/t/1…&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;2. &lt;a href="https://mastodon.social/@Lancker@digitalcourage.social/117687683311414244"&gt;Neben Nvidia gibt es spannende KI-Chips, deren Hersteller verschwunden sind oder kaum …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;Florian Lancker (@Lancker@digitalcourage.social) · 🔁 2 · ❤️ 1 · 💬 0&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Neben Nvidia gibt es spannende KI-Chips, deren Hersteller verschwunden sind oder kaum noch Support bieten. Der ET-SoC-1 von Esperanto ist so ein Fall, mit über tausend RISC-V-Kernen auf einem Chip. Wer solche Hardware ergattert, muss ihr Innenleben selbst verstehen, vom Network on Chip bis zur Speicherhierarchie, und kann dann sogar llama.cpp darauf laufen lassen. Das ist nicht nur ein Hobby für Nerds. Es zeigt, dass Vielfalt bei KI-Hardware möglich ist und dass offene Toolchains die Lebensdauer teurer Chips verlängern. In einem Markt, der von einem Anbieter dominiert wird, ist jedes lauffähige Alternativsystem ein kleines Stück Unabhängigkeit.&lt;br&gt;&lt;br&gt;&lt;a href="https://digitalcourage.social/tags/RISCV"&gt;#RISCV&lt;/a&gt; &lt;a href="https://digitalcourage.social/tags/KIHardware"&gt;#KIHardware&lt;/a&gt; &lt;a href="https://digitalcourage.social/tags/llamacpp"&gt;#llamacpp&lt;/a&gt; &lt;a href="https://digitalcourage.social/tags/ReverseEngineering"&gt;#ReverseEngineering&lt;/a&gt; &lt;a href="https://digitalcourage.social/tags/OpenSource"&gt;#OpenSource&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;3. &lt;a href="https://mastodon.social/@halumba/117687820591563675"&gt;Si unos parches mantenidos por una persona casi doblan el prefill de llama.cpp en una GPU …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;halumba (@halumba) · 🔁 1 · ❤️ 1 · 💬 0&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;Si unos parches mantenidos por una persona casi doblan el prefill de llama.cpp en una GPU AMD, el problema no es el hardware: es el margen que sigue sin aprovechar ROCm. Me gusta cómo están hechos (salida idéntica a la de referencia como requisito), pero la cifra viral es una sola prueba sin metodología. ¿Lo usaríais en algo más que el homelab?&lt;br&gt;&lt;br&gt;&lt;a href="https://asturia.es/blog/2026-11-26-llama-cpp-en-amd-parches-que-doblan-el-prefill-en-una-sola-prueba"&gt;asturia.es/blog/2026-11-26-lla…&lt;/a&gt;&lt;br&gt;&lt;a href="https://mastodon.social/tags/InteligenciaArtificial"&gt;#InteligenciaArtificial&lt;/a&gt; &lt;a href="https://mastodon.social/tags/SysAdmin"&gt;#SysAdmin&lt;/a&gt; &lt;a href="https://mastodon.social/tags/LlamaCpp"&gt;#LlamaCpp&lt;/a&gt; &lt;a href="https://mastodon.social/tags/ROCm"&gt;#ROCm&lt;/a&gt; &lt;a href="https://mastodon.social/tags/AMD"&gt;#AMD&lt;/a&gt; &lt;a href="https://mastodon.social/tags/LocalLLM"&gt;#LocalLLM&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;
+&lt;h3&gt;4. &lt;a href="https://mastodon.social/@cosmicotterstar/117685539611356247"&gt;A free tool called Magnitude runs a 66 GB AI model on a 24 GB graphics card — 41 tokens a …&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;small&gt;cosmicotterstar (@cosmicotterstar) · 🔁 1 · ❤️ 0 · 💬 0 · 🖼 1&lt;/small&gt;&lt;/p&gt;
+&lt;details&gt;&lt;summary&gt;Show post&lt;/summary&gt;&lt;p&gt;A free tool called Magnitude runs a 66 GB AI model on a 24 GB graphics card — 41 tokens a second on an RTX 3090 — by keeping the busy parts on the GPU and streaming the rest from your SSD. Your files never leave your own machine. What&amp;#x27;s the biggest model your computer has ever run?&lt;br&gt;&lt;br&gt;&lt;a href="https://mastodon.social/tags/LocalAI"&gt;#LocalAI&lt;/a&gt; &lt;a href="https://mastodon.social/tags/OpenSource"&gt;#OpenSource&lt;/a&gt;&lt;/p&gt;&lt;/details&gt;</description>
+</item>
 <item>
 <title>Local LLMs. Mastodon daily top. Thu 2026-11-26</title>
 <link>https://github.com/top-on/mastodon-digest</link>
